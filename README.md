@@ -9,6 +9,6 @@
 |------|---|---|---|
 |허호녕|Team Leader, Document Writer| Programming : C, C#, Node.js <br> Firebase, Flutter | UML modeling, Communication Skills |
 |김민수|Implementor, Tester| Programming : C, C#, Python <br> Databases : relational | UML modeling, Node.js framework|
-|최원혁|Implementor, Tester| Programming : C++, C#, Python <br> Node.js, Flutter, Firebase, MonogoDB, MySQL, UWP | UML modeling|
+|최원혁|Implementor, Cloud Architect| Programming : C++, C#, Python <br> Node.js, Flutter, Firebase, MonogoDB, MySQL, UWP | UML modeling, Cloud Architecture |
 |유승민| Configuration manager| Entity relationship, Databases : relational | UML |
 |이산가 비두샤|UX/UI Implementor| Programming : Python, C, Dart, Java <br> Software : Adobe XD | UML
