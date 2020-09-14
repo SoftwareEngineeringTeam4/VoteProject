@@ -8,7 +8,7 @@
 |Participant|Roles|Skills|Training Needs|
 |------|---|---|---|
 |허호녕|Team Leader, Document Writer| Programming : C, C#, Node.js <br> Firebase, Flutter | UML modeling, Communication Skills |
-|김민수|Implementor, Requirement engineer| Programming : C, C#, Python, Django <br> Flutter, Firebase, Databases : relational | UML modeling, Node.js framework|
+|김민수|Implementor, Requirement engineer| Programming : C, C#, Python, Django <br> Flutter, Firebase, MySQL | UML modeling, Node.js framework|
 |최원혁|Implementor, Cloud Architect| Programming : C++, C#, Python, Node.js <br> Express.js, Flutter, Firebase, MonogoDB, MySQL, UWP | UML modeling, Cloud Architecture |
 |유승민| Configuration manager| Entity relationship <br> Databases : relational <br> Document Management| UML modeling <br> Programming : C, Java |
 |이산가 비두샤|UX/UI Implementor| Programming : Python, C, Dart, Java <br> Software : Adobe XD | UML
