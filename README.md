@@ -21,7 +21,7 @@ https://www.hankyung.com/society/article/201912300729i
 # Functional Requirements # 
 - 신원 인증을 위한 종합정보시스템 Authentication 사용
 - 1인 1투표를 위한 중복 로그인 방지 시스템이 존재 (세션 사용)
-- 투명성을 보장하기 위한 실시간 투표 진행 결과를 확인 (socket.io)
+- 투명성을 보장하기 위한 실시간 투표율 및 진행 과정을 확인 (socket.io)
 - 후보자의 정보를 저장하기 위해 RDBMS 사용 (MySQL)
 - 안건의 내용 혹은 부가 정보를 저장하기 위해 Cloud Firestore 사용
 - 투표방 개설, 질문 및 항목에 대한 다양한 입력
