@@ -8,7 +8,7 @@
 - 시스템의 기능을 제공하기 위해 활용해야 하는 외부 시스템
    - 본교 종합정보시스템 Authentication, Firebase(Cloud Firestore), MySQL, AWS EC2
 
-https://www.hankyung.com/society/article/201912300729i
+https://www.hankyung.com/society/article/201912300729i <br>
 기사에 따르면 여러 대학이 총학생회 내지 교내 선거에 대해 투표율 저조로 인해 선거의 무산, 선거 후보자, 안건에 대한 무관심으로 어려움을 겪고 있고 이는 비단 타 학교만의 문제가 아닌 우리 학교에서도 겪고 있는 문제이다.
 즉, REV(Remote E-Voting) 방식의 전자투표 방식을 채택하여 투표장을 가지 않아도 투표를 할 수 있도록 하여 학생들 입장에서도 투표에 대한 거부감을 덜 뿐 아니라 주최하는 입장에서도 개수를 하지 않아도 되므로 시간적 소요를 덜 수 있다.
 
