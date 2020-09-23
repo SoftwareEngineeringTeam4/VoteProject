@@ -45,7 +45,6 @@ https://www.hankyung.com/society/article/201912300729i <br>
 - 투표 기간이 끝날 때까지 선거 결과에 액세스 할 수 없다
 
 # 팀 구성원, 역할 및 역량 #
-
 |Participant|Roles|Skills|Training Needs|
 |------|---|---|---|
 |허호녕|Team Leader, Implementator| Programming : C, C#, Node.js <br> Firebase, Flutter | UML modeling, Communication Skills |
@@ -55,3 +54,4 @@ https://www.hankyung.com/society/article/201912300729i <br>
 |이산가 비두샤|UX/UI Implementor| Programming : Python, C, Dart, Java <br> Software : Adobe XD | UML
 
 # 과제 3 #
+![image](./asm3.PNG)
