@@ -54,4 +54,4 @@ https://www.hankyung.com/society/article/201912300729i <br>
 |이산가 비두샤|UX/UI Implementor| Programming : Python, C, Dart, Java <br> Software : Adobe XD | UML
 
 # 과제 3 #
-![image](./asm3.PNG)
+![image](./asm_3.PNG)
