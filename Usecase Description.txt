@@ -9,20 +9,20 @@
 진입 조건 : 투표 결과를 저장하고 확인하기 위해서는 관리자 인증이 있어야 한다.
 출구 조건 : 투표 결과를 저장하지 않으면, 경고 표시와 함께 종료를 할 수 없게 한다.
 Quality requirements : 
-	- 투표 결과에는 Participant들의 정보는 기록하지 않는다.
+	- 투표 결과에는 Voter들의 정보는 기록하지 않는다.
 	- 투표 결과에는 안건 또는 후보자의 이름을 기록한다.
 	- 투표 결과에는 날짜와 시간을 기록한다.
 
-유스 케이스 명칭 : CreateAccount
-참여 액터 : Participant에 의해 시작됨
+유스 케이스 명칭 : SignUp
+참여 액터 : Voter에 의해 시작됨
 이벤트 플로우 : 
-	1. Participant는 회원가입 버튼을 누른다
+	1. Voter는 회원가입 버튼을 누른다
 	2. Vote System은 회원가입 양식을 제공한다
-	3. Participant는 이메일 포함 모든 양식을 작성한다
-	4. Participant가 회원가입 승인 버튼을 누르면 Participant Database로 데이터를 전송한다
-	5. Participant는 이메일 인증을 수행한다
-진입 조건 : Participant가 회원가입(CreateAccount)을 진행한다
-출구 조건 : - Participant가 작성한 학교 이메일을 기반으로 메일을 전송한다
+	3. Voter는 이메일 포함 모든 양식을 작성한다
+	4. Voter가 회원가입 승인 버튼을 누르면 Student Database로 데이터를 전송한다
+	5. Voter는 이메일 인증을 수행한다
+진입 조건 : Voter가 회원가입(SignUp)을 진행한다
+출구 조건 : - Voter가 작성한 학교 이메일을 기반으로 메일을 전송한다
 	  - 학교 이메일의 인증이 완료되면 가입 승인
 
 유스 케이스 명칭 : ParticipateVote
@@ -31,11 +31,11 @@ Quality requirements :
 이벤트 플로우 :
 	1. Administrator가 투표를 생성한다.
 	2. Administrator는 생성한 투표에서 Candidate를 등록한다.
-	3. Participant는 로그인 창에서 정보를 입력한 후 확인 단추를 클릭한다.
+	3. Voter는 로그인 창에서 정보를 입력한 후 확인 단추를 클릭한다.
 	4. 로그인이 완료되면 투표할 후보자를 선택한다.
 	5. 투표를 완료한다.
 진입 조건 : 투표를 하기 위해서는 회원 가입이 되어 있어야 한다.
 출구 조건 : 투표를 정상적으로 완료한다면, 투표가 완료되었다는 메시지를 화면에 표시한다.
 Quality requirements :
-	1. Participant의 투표는 실시간으로 결과에 반영된다.
-	2. Participant는 투표 직후 자신의 투표 결과를 확인할 수 있다.
+	1. Voter의 투표는 실시간으로 결과에 반영된다.
+	2. Voter는 투표 직후 자신의 투표 결과를 확인할 수 있다.
