@@ -55,3 +55,13 @@ https://www.hankyung.com/society/article/201912300729i <br>
 
 # Usecase Diagram / 수정자 : 김민수, 유승민, 허호녕 # 
 ![image](./vote.PNG)
+
+# Class Diagram / 작성자 : 허호녕 # 
+![image](./ClassDiagram.PNG)
+
+# Sequence Diagram / 작성자 : 유승민 #
+
+# Sequence Diagram / 작성자 : 김민수 #
+
+# Object Diagram / 작성자 : 최원혁 #
+
