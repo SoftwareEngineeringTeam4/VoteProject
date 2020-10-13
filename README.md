@@ -62,6 +62,6 @@ https://www.hankyung.com/society/article/201912300729i <br>
 # Sequence Diagram / 작성자 : 유승민 #
 
 # Sequence Diagram / 작성자 : 김민수 #
-
+![image](./sequenceDiagram2.PNG)
 # Object Diagram / 작성자 : 최원혁 #
 ![image](./ObjectDiagram.png)
