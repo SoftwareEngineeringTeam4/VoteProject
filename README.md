@@ -64,4 +64,4 @@ https://www.hankyung.com/society/article/201912300729i <br>
 # Sequence Diagram / 작성자 : 김민수 #
 
 # Object Diagram / 작성자 : 최원혁 #
-
+![image](./ObjectDiagram.png)
