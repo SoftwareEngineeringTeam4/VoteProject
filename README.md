@@ -53,5 +53,5 @@ https://www.hankyung.com/society/article/201912300729i <br>
 |유승민| Configuration manager| Entity relationship <br> Databases : relational, SQLite <br> Document Management| UML modeling <br> Programming : C, Java |
 |이산가 비두샤|UX/UI Implementor| Programming : Python, C, Dart, Java <br> Software : Adobe XD | UML
 
-# 과제 3 #
+# Usecase Diagram #
 ![image](./vote.PNG)
