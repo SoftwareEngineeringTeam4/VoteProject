@@ -60,7 +60,7 @@ https://www.hankyung.com/society/article/201912300729i <br>
 ![image](./ClassDiagram.PNG)
 
 # Sequence Diagram / 작성자 : 유승민 #
-![image](./SequenceDiagram.PNG)
+![image](./SequenceDiagram.png)
 
 # Sequence diagram for the CreateVote use case / 작성자 : 김민수 #
 ![image](./sequenceDiagram2.PNG)
