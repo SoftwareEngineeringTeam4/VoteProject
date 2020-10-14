@@ -54,14 +54,16 @@ https://www.hankyung.com/society/article/201912300729i <br>
 |이산가 비두샤|UX/UI Implementor| Programming : Python, C, Dart, Java <br> Software : Adobe XD | UML
 
 # Usecase Diagram / 수정자 : 김민수, 유승민, 허호녕 # 
-![image](./vote.PNG).
+![image](./vote.PNG)
 
 # Class Diagram / 작성자 : 허호녕 # 
 ![image](./ClassDiagram.PNG)
 
 # Sequence Diagram / 작성자 : 유승민 #
 ![image](./Sequence Diagram.PNG)
+
 # Sequence diagram for the CreateVote use case / 작성자 : 김민수 #
 ![image](./sequenceDiagram2.PNG)
+
 # Object Diagram / 작성자 : 최원혁 #
 ![image](./ObjectDiagram.png)
