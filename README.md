@@ -69,7 +69,7 @@ https://www.hankyung.com/society/article/201912300729i <br>
 ![image](./ObjectDiagram.png)
 
 # Component Diagram / 작성자 : 김민수, 유승민, 최원혁, 허호녕 #
-![image](./ComponentDiagram.png)
+![image](./Component%20Diagram.png)
 
 # Deployment Diagram / 작성자 : 김민수, 유승민, 최원혁, 허호녕 #
 ![image](./Deployment%20Diagram.png)
